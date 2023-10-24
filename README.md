@@ -4,4 +4,4 @@
 # Проекты
 | № | Ссылка | Описание | Стек |
 | --- | --- | --- | --- |
-| 1 | [Анализ топовых игр на стриминговой платформе Twitch за 2016-2023 годы](https://github.com/ArhoneR/Pet_projects/blob/main/twitch_data_analysis/twitch.ipynb) | Исследуем данные сервиса Яндекс.Недвижимость, определяем факторы, больше всего влияющие на общую стоимость объекта | `предобработка данных` `Python` `Pandas` `Seaborn` `Plotly` `SciPy` `проверка статистических гипотез`
+| 1 | [Анализ топовых игр на стриминговой платформе Twitch за 2016-2023 годы](https://github.com/ArhoneR/Pet_projects/blob/main/twitch_data_analysis/twitch.ipynb) | Анализ данных о популярности категорий на стримингвоой площадке Twitch | `предобработка данных` `Python` `Pandas` `Seaborn` `Plotly` `SciPy` `проверка статистических гипотез`
